@@ -1,0 +1,7 @@
+C:\AprendendoCSharp\ByteBank\1-ByteBank\bin\Debug\1-ByteBank.exe.config
+C:\AprendendoCSharp\ByteBank\1-ByteBank\bin\Debug\1-ByteBank.exe
+C:\AprendendoCSharp\ByteBank\1-ByteBank\bin\Debug\1-ByteBank.pdb
+C:\AprendendoCSharp\ByteBank\1-ByteBank\obj\Debug\1-ByteBank.csproj.AssemblyReference.cache
+C:\AprendendoCSharp\ByteBank\1-ByteBank\obj\Debug\1-ByteBank.csproj.CoreCompileInputs.cache
+C:\AprendendoCSharp\ByteBank\1-ByteBank\obj\Debug\1-ByteBank.exe
+C:\AprendendoCSharp\ByteBank\1-ByteBank\obj\Debug\1-ByteBank.pdb
